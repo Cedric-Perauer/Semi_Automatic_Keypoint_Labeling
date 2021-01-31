@@ -28,10 +28,7 @@ python __main__.py
 In order to use auto labeling :   
 download the .pt weights of the neural net by running the .sh file in the RektNet/ folder. 
 
-For the dataset, navigate to your ```02_perception/camera/dl_yolo/training/RektNet/dataset``` directory and run 
-```bash
-sh ./download_unlabeled.sh
-``` 
+We use the [MIT](https://github.com/cv-core/MIT-Driverless-CV-TrainingInfra/tree/master/RektNet) dataset as provided in this repo. 
 
 You might need to rename the folder to unlabeled dependig on the download. 
 
