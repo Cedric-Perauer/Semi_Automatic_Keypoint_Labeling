@@ -57,7 +57,7 @@ if you have a cuda capable GPU (Nivida), you can speed up the prediction a littl
 Take a look at the terminal for information on which mode it switches to. 
 
 ## Update Label Database
-Make sure to git branch when you label : 
+Make sure to git branch when you label as a team : 
 ```bash 
 git branch <your_name>labeling
 git checkout  <your_name>labeling
